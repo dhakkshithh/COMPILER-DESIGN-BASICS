@@ -81,3 +81,6 @@ This task introduces students or learners to the basic building block of compile
 Conclusion:
 
 By implementing this lexical analyzer, students gain hands-on experience with string manipulation, file handling, and parsing techniques in C. It also serves as a stepping stone toward more advanced topics like syntax analysis, abstract syntax trees (ASTs), and full-fledged compiler construction
+
+*OUTPUT:
+![Image](https://github.com/user-attachments/assets/d6c25c2e-6a08-46f3-8807-1eddcef3fd60)
